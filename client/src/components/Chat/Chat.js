@@ -5,7 +5,6 @@ import './chat.css'
 function Chat({ socket, username, email, room }) {
   const [currentMessage, setCurrentMessage] = useState("");
   const [messageList, setMessageList] = useState([]);
-  console.log(email)
 
   const sendMessage = async () => {
     if (currentMessage !== "") {
@@ -71,7 +70,7 @@ function Chat({ socket, username, email, room }) {
             event.key === "Enter" && sendMessage();
           }}
         />
-        <button onClick={sendMessage}>&#9658;</button>
+      <button style={{background:'#FFFFFF'}} onClick={sendMessage}>&#9658;</button>
       </div>
     </div>
   );

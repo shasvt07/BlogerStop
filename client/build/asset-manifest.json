@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16b2bf7c.chunk.css",
+    "main.js": "/static/js/main.700db537.chunk.js",
+    "main.js.map": "/static/js/main.700db537.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7e6e88a6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7e6e88a6.js.map",
+    "static/js/2.0df11f0b.chunk.js": "/static/js/2.0df11f0b.chunk.js",
+    "static/js/2.0df11f0b.chunk.js.map": "/static/js/2.0df11f0b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.465941dca181fce2b3cf72c77f4fa2d4.js": "/precache-manifest.465941dca181fce2b3cf72c77f4fa2d4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.16b2bf7c.chunk.css.map": "/static/css/main.16b2bf7c.chunk.css.map",
+    "static/js/2.0df11f0b.chunk.js.LICENSE.txt": "/static/js/2.0df11f0b.chunk.js.LICENSE.txt",
+    "static/js/main.700db537.chunk.js.LICENSE.txt": "/static/js/main.700db537.chunk.js.LICENSE.txt",
+    "static/media/BloggerStop.png": "/static/media/BloggerStop.40f59405.png",
+    "static/media/compose.png": "/static/media/compose.cafcff61.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e6e88a6.js",
+    "static/js/2.0df11f0b.chunk.js",
+    "static/css/main.16b2bf7c.chunk.css",
+    "static/js/main.700db537.chunk.js"
+  ]
+}

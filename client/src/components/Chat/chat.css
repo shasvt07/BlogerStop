@@ -51,8 +51,9 @@ body {
 }
 
 .chat-window {
-  width: 300px;
+  width: 320px;
   height: 420px;
+  border-radius: 10px;
 }
 
 .chat-window p {
@@ -156,6 +157,7 @@ body {
   border: 1px solid #263238;
   border-top: none;
   display: flex;
+  border-radius: 10px;
 }
 
 .chat-window .chat-footer input {
@@ -165,7 +167,7 @@ body {
   padding: 0 0.7em;
   font-size: 1em;
   border-right: 1px dotted #607d8b;
-
+  border-radius: 10px;
   outline: none;
   font-family: "Open Sans", sans-serif;
 }
@@ -181,6 +183,7 @@ body {
   outline: none;
   font-size: 25px;
   color: lightgray;
+  border-radius:10px;
 }
 
 .chat-window .chat-footer button:hover {
